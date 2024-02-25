@@ -1,5 +1,7 @@
 body{
     font-family: 'Quicksand', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 h2, h3{
     color: #00a2c6;
@@ -52,4 +54,11 @@ nav li{
     display: inline;
     list-style-type: none;
     margin-right: 20px;
+}
+nav {
+    background-color: rgb(135, 153, 235);
+    padding: 5px;
+}
+main{
+    padding: 20px;
 }
